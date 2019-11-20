@@ -45,6 +45,14 @@ img {
     display: block;
   }
 
+  .photo:nth-child(2) {
+    display: block;
+  }
+
+  .photo:nth-child(5) {
+    display: block;
+  }
+
   section {
     display: flex;
     flex-wrap: wrap;
