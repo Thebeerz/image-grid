@@ -92,7 +92,7 @@ img {
 
   .photo:nth-child(5) {
     width: 34%;
-    display: flex;
+    display: block;
   }
 
 }
