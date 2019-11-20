@@ -25,14 +25,14 @@ img {
   display: block;
   width: 100%;
 }
-/*
+
 .photo:nth-child(2) {
   display: none;
 }
 
 .photo:nth-child(5) {
   display: none;
-} */
+}
 
 @media only screen and (min-width: 25em) {
 
@@ -76,7 +76,7 @@ img {
 @media only screen and (min-width: 60em) {
 
   .photo {
-    width: 33%;
+    width: 33.3333%;
     display: block;
   }
 
@@ -86,12 +86,10 @@ img {
   }
 
   .photo:nth-child(2) {
-    width: 33.3333%;
     display: block;
   }
 
   .photo:nth-child(5) {
-    width: 34%;
     display: block;
   }
 
