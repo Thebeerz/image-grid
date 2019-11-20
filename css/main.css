@@ -82,12 +82,12 @@ img {
 
   .photo:first-child {
     width: 66.6666%;
-    display: flex;
+    display: block;
   }
 
   .photo:nth-child(2) {
     width: 33.3333%;
-    display: flex;
+    display: block;
   }
 
   .photo:nth-child(5) {
